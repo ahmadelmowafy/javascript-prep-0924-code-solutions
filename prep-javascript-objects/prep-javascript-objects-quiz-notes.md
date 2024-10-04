@@ -5,8 +5,10 @@
 Answer the following questions in the provided markdown file before turning in this exercise:
 
 - What data types can object properties hold?
+  Strings, numbers, booleans, null, undefined, symbol, bigint
 
 - Describe the syntax (structure) of object-literals in JavaScript.
+  Use curly braces ({}) to surround the keys and values in the object. Within the braces, add each key followed by a colon (:), followed by its value. This creates a key/value pair. Each key/value pair is separated by a comma (,)
 
 ## Notes
 
